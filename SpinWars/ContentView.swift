@@ -1,6 +1,8 @@
 import SwiftUI
 import AVFoundation
 
+//thats just a commit
+
 struct ContentView: View {
 
     // State variables for fruits
